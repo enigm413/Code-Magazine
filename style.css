@@ -20,7 +20,7 @@
    margin: 0px auto;
    position: relative;
    display: flex;
-   gap: 50px;
+   gap: 60px;
    align-items: start;
  }
 
@@ -107,6 +107,7 @@
 
  article {
    margin-bottom: 10px;
+   width: 850px;
 
  }
 
@@ -193,7 +194,7 @@
    border-bottom: 5px solid #1098ad;
    background-color: #f7f7f7;
    padding: 10px 30px;
-   width: 800px;
+   flex: 1;
  }
 
  h4 {
